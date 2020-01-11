@@ -105,7 +105,7 @@
 	.movie_menu .search_entry.active {
 		color: #EF4238;
 		border-bottom: 2px solid #ef4238;
-	}
+	} 
 	
 	.movie_menu .search_entry.router-link-active {
 		color: #EF4238;
